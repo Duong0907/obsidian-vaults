@@ -1,4 +1,3 @@
-# Add Feed Document
 
 ---
 
@@ -31,7 +30,7 @@ Bước 1: Scripts để tạo feed data: ví dụ `\fv-backend\shelob\scripts\d
 - Tạo file ruby tên có định dạng `<tên product>_<feed id>.rb`
 - Sau khi  chạy script cần thu được data sau
 
-```jsx
+```json
 {
   "feedId": 1000025,					// (1) https://opswat.atlassian.net/wiki/spaces/OES/pages/2238350492/Maximum+IDs (Version feed for Win)
   "type": 2,							// type 2 mean this is feed for Product Version, type 1 for antimalware info.

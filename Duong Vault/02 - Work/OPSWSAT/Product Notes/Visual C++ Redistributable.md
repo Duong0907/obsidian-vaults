@@ -1,5 +1,3 @@
-# Visual C++ Redistributable
-
 ## Test on x86 machine
 
 | Version | Sig | Method | Result |

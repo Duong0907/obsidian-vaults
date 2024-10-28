@@ -1,5 +1,3 @@
-# Remote Window
-
 ## How to setup remote patching:
 
 - Turn off the firewall of both machines (the remote and destiny machine).

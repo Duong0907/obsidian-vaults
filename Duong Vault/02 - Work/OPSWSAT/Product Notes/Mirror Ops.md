@@ -1,5 +1,3 @@
-# Mirror Ops
-
 ```json
 {
     "result" : {

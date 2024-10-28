@@ -1,10 +1,9 @@
-# AutoCAD 2023
 
 ---
 
-[Feed](Feed%20122fbda41c7a800094f8c83ddc52ae1b.md)
+[Feed](Feed.md)
 
-[Patch](Patch%20122fbda41c7a8027b8bffaf644cbef19.md)
+[Patch](Patch.md)
 
 ## Note
 
@@ -132,13 +131,13 @@
 
 ## Patching with different methods
 
-|  | Install | Download | Direct Download | Custom Install |
-| --- | --- | --- | --- | --- |
-| Install | OK | OK |  |  |
-| Download |  |  |  |  |
-| Direct Download |  |  |  |  |
-| Custom Install | Careful | Careful | Careful | Careful |
-| Update |  |  |  |  |
+|                 | Install | Download | Direct Download | Custom Install |
+| --------------- | ------- | -------- | --------------- | -------------- |
+| Install         | OK      | OK       |                 |                |
+| Download        |         |          |                 |                |
+| Direct Download |         |          |                 |                |
+| Custom Install  | Careful | Careful  | Careful         | Careful        |
+| Update          |         |          |                 |                |
 
 When use custom install for patching, we should keep the same config as the base
 

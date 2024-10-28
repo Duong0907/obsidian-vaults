@@ -2,7 +2,6 @@
 
 - Webex có 2 phiên bản
     - **Webex.exe, Webex.msi**: webex app với full tính năng
-    
     ![image.png](02%20-%20Work/OPSWSAT/Product%20Notes/Webex/image.png)
     
     - **webexapp.msi**: webex meeting

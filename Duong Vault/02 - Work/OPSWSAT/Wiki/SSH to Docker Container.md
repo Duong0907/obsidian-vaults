@@ -1,5 +1,3 @@
-# SSH to Docker Container
-
 ```bash
  ssh -p 10022 opswat@127.0.0.1
 ```

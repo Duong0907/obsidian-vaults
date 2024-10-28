@@ -1,5 +1,3 @@
-# Knowbe4
-
 - Đặt mật khẩu đúng cách:
     - Độ dài
     - Độ phức tạp

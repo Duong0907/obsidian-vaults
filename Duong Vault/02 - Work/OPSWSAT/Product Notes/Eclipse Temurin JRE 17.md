@@ -1,5 +1,3 @@
-# Eclipse Temurin JRE 17
-
 ## Investigate
 
 - Các phiên bản cũ (thấp hơn 17.0.12) không có user context, mặc định là All Users

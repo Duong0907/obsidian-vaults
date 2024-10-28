@@ -1,5 +1,3 @@
-# User Context
-
 - **Document**: [Categorization of different behaviors in patching for per-user and per-machine - OESIS AND Vulnerability - Confluence (atlassian.net)](https://opswat.atlassian.net/wiki/spaces/OES/pages/2867626936/Categorization+of+different+behaviors+in+patching+for+per-user+and+per-machine)
 - **Test cases:** [User context - OESIS AND Vulnerability - Confluence (atlassian.net)](https://opswat.atlassian.net/wiki/spaces/OES/pages/3212804189/User+context)
 

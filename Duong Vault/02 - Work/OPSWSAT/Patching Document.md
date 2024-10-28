@@ -1,4 +1,3 @@
-# Patching Document
 
 ---
 

@@ -1,5 +1,3 @@
-# fv-win-vmod
-
 ## Code flow of test_auto_patching
 
 1. Parse arguments of terminal

@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11f91cdc58d2949d",
+            "id": "0859a3e29a8dbe14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Demo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Demo"
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 436.5
   },
   "right": {
     "id": "d19792f1c9a5ec88",
@@ -143,8 +148,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -167,22 +172,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11f91cdc58d2949d",
+  "active": "0859a3e29a8dbe14",
   "lastOpenFiles": [
-    "04 - Areas/Programming/Others/Encoding, Encrypting and Hashing.md",
+    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023.md",
     "Demo.md",
-    "02 - Work/OPSWSAT/Wiki.md",
-    "02 - Work/OPSWSAT/Nhật ký.md",
+    "02 - Work/OPSWSAT/Patching Document.md",
     "02 - Work/OPSWSAT/Knowbe4.md",
     "02 - Work/OPSWSAT/Add Feed Document.md",
-    "02 - Work/OPSWSAT/Wiki/How to/Get latest OESIS Tool 11bfbda41c7a80fd9a98f661f7978aeb.md",
-    "02 - Work/OPSWSAT/Wiki/How to/Download OESIS Dependencies for fv-win-vmod 11bfbda41c7a807c91ddd666a297d32e.md",
-    "02 - Work/OPSWSAT/Wiki/Fix error 119fbda41c7a80a985f0dcb56254ff86.md",
-    "02 - Work/OPSWSAT/Product Notes/Webex Meeting 486f18fc3eb54568a6cd6739ee51d63b.md",
-    "02 - Work/OPSWSAT/Product Notes/Webex ffffbda41c7a8054b0bad4a03c8f732e.md",
-    "02 - Work/OPSWSAT/Product Notes/Thunderbird f4916149b8cb41f5a43323b3bd915050.md",
-    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023 de65310d52a344c69744641253a4d42c.md",
-    "02 - Work/OPSWSAT/Product Notes/7-zip 48537e5cb6504c95b6bee2fe6c7ff9c9.md",
+    "02 - Work/OPSWSAT/Wiki/User Context.md",
+    "02 - Work/OPSWSAT/Wiki/SSH to Docker Container.md",
+    "02 - Work/OPSWSAT/Wiki/Remote Window.md",
+    "02 - Work/OPSWSAT/Wiki/How to.md",
+    "02 - Work/OPSWSAT/Wiki/fv-win-vmod.md",
+    "02 - Work/OPSWSAT/Wiki/Fix error.md",
+    "02 - Work/OPSWSAT/Wiki/Common errors.md",
+    "02 - Work/OPSWSAT/Wiki/Accounts.md",
+    "02 - Work/OPSWSAT/Product Notes/Webex Meeting.md",
+    "02 - Work/OPSWSAT/Product Notes/Webex.md",
+    "02 - Work/OPSWSAT/Product Notes/Visual C++ Redistributable.md",
+    "02 - Work/OPSWSAT/Product Notes/Thunderbird.md",
+    "02 - Work/OPSWSAT/Product Notes/TeamViewer 15.md",
+    "02 - Work/OPSWSAT/Product Notes/Mirror Ops.md",
+    "02 - Work/OPSWSAT/Product Notes/Jabra Direct.md",
+    "02 - Work/OPSWSAT/Product Notes/HDClone.md",
+    "02 - Work/OPSWSAT/Product Notes/Eclipse Temurin JRE 17.md",
+    "02 - Work/OPSWSAT/Product Notes/Beyond Compare 4.md",
+    "02 - Work/OPSWSAT/Product Notes/Autodesk Design Review.md",
+    "02 - Work/OPSWSAT/Wiki/How to/Waiting for silent install.md",
+    "02 - Work/OPSWSAT/Wiki/How to/Share folder from Windows host to Ubuntu VM.md",
     "02 - Work/OPSWSAT/Product Notes/Webex/image 1.png",
     "02 - Work/OPSWSAT/Product Notes/Webex/image.png",
     "02 - Work/OPSWSAT/Product Notes/Autodesk Design Review/image.png",
@@ -190,19 +207,7 @@
     "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/image 3.png",
     "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/image 2.png",
     "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/image 1.png",
-    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/Feed 122fbda41c7a800094f8c83ddc52ae1b.md",
     "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/8E5F23B6-BB6F-446E-8ABE-8BF347CF4B7C.png",
-    "02 - Work/OPSWSAT/Diary/Ngày 3.md",
-    "02 - Work/OPSWSAT/Diary/Ngày 2.md",
-    "02 - Work/OPSWSAT/Diary/Ngày 1.md",
-    "04 - Areas/Programming/Others/AI.md",
-    "04 - Areas/Programming/NodeJS/Advanced Concepts.md",
-    "04 - Areas/Programming/Java/Variables.md",
-    "04 - Areas/Programming/Java/Java roadmap.md",
-    "04 - Areas/Programming/Java/Introduction.md",
-    "04 - Areas/Programming/Java/Giới thiệu.md",
-    "04 - Areas/Programming/Java/Cách tạo project servlet jsp trên intellij community.md",
-    "04 - Areas/Programming/Computer Network/VM Net (VMWare).md",
     "Untitled.canvas",
     "04 - Areas/Programming/Database",
     "04 - Areas/Programming/Others",

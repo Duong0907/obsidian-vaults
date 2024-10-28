@@ -1,5 +1,3 @@
-# Webex Meeting
-
 ```
 Patch on Win: 422
 Patch association on Win: 5000423

@@ -1,5 +1,3 @@
-# Beyond Compare 4
-
 ```ruby
 date_regex = 'released\s+(\w+.\s*\d+,\s*\d+)'
 date_content = xml.content.scan(/#{date_regex}/m)
