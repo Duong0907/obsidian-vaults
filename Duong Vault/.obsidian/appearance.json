@@ -1,0 +1,11 @@
+{
+  "enabledCssSnippets": [
+    "demo",
+    "Custom folder icons",
+    "Custom folder explorer colors",
+    "Theme - Atom"
+  ],
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
+}

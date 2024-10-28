@@ -1,0 +1,10 @@
+- Kiểu dữ liệu:
+	- boolean: 1 bit
+	- byte: 1 byte
+	- short: 2 bytes
+	- int: 4 bytes
+	- long: 8 bytes
+	- float: 4 bytes
+	- double: 8 bytes
+	- char: 2 bytes
+	- String: tùy vào giá trị của biến

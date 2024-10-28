@@ -1,0 +1,12 @@
+- Điểm: 
+	- Quá trình: 20%
+		- Bài tập
+		- Tiến độ đồ án
+	- Thực hành: 30%
+		- Bài tập
+		- Bài thu hoạch
+	 - Cuối kì: 50%
+		 - Đồ án: [[Học kì 5/Phân tích dữ liệu/Đồ án|Đồ án]]
+- Courses link:
+	- https://www.coursera.org/learn/data-analysis-with-python
+

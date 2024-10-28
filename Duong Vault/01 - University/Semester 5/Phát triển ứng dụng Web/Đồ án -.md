@@ -1,0 +1,7 @@
+- Thời gian còn lại 2 tuần: 8/12 - 19/12
+- Các công việc cần làm:
+	- Giao diện
+		- Đổi lại giao diện theo bên internet 
+	- Backend
+		- Tạo lại migration
+		- Code thêm chức năng

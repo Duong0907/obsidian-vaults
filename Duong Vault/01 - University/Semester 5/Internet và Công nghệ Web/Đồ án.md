@@ -1,0 +1,2 @@
+- Đề tài: Xây dựng trang web bán dụng cụ thể thao
+- Yêu cầu: Sử dụng HTML, CSS, PHP thuần

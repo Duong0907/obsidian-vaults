@@ -1,0 +1,3 @@
+- A thread is a sequence of instructions that we want the CPU to do
+- Scheduling is deciding which thread will be executed
+- NodeJS has one thread, and it has the event loop - which is a structure decides which actions will be executed in that thread

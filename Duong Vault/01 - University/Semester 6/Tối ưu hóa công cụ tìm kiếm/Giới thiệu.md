@@ -1,0 +1,17 @@
+Các yếu tố ảnh hưởng đến SEO
+- SEO onpage
+	- Nội dung: hiện nay xu hướng mới của các máy tìm kiếm là ưu tiên nội dung thay vì tập trung vào các yếu tố khác như link, từ khóa, ...
+	- Internal link: liên kết tới các trang khác của website
+	- Site performance: trang web càng nhanh thì có khả năng SEO cao. Khi người dùng nhấn vào mà trang web load quá chậm thì sẽ ảnh hưởng đến SEO
+	- Cấu trúc URL: SEO còn dựa trên nội dung của URL trang web
+	- Anchor text: Là nội dung của tag `<a></a>`. Nên dùng text thay vì hình ảnh để hiển thị liên kết trên trang web
+	- Thẻ HTML: 
+		- Trên trang web chỉ nên có duy nhất 1 tag `<h1>`, chứa từ khóa của trang web. 
+		- Chú ý các tag metadata
+		- Chú ý thuộc tính alt của tag `<img>`. Nên tiền xử lý hình với đúng kích thước thay vì đặt size trên html
+	- Mật độ từ khóa
+	- Broken link: các link bị hỏng sẽ ảnh hưởng tới SEO của trang web. Đối thủ cạnh tranh có thể lợi dụng các link bị hỏng này để thay thế các backlink trên các trang khác thành trang của họ
+- SEO offpage
+	- Link building: 
+		- Xác định mô hình xây dựng backlink
+		- Nguồn xây dựng backlink: các trang web liên quan, 

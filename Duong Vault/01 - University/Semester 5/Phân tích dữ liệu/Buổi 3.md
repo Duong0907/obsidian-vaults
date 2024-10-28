@@ -1,0 +1,3 @@
+- Deadline: 
+	- Làm 8 câu đầu
+	- Trong notebook ghi rõ số câu

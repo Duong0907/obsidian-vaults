@@ -1,0 +1,10 @@
+- Timeline:
+	- 3/11/2023: 
+		- Sáng, tối: hoàn thiện tất cả code chức năng cơ bản
+	- 4/11/2023: 
+		- Sáng, tối: hoàn thiện các trang giới thiệu nhóm, báo cáo, push code lên GitHub
+	- 5/11/2023: 
+		- Sáng, tối: hoàn thiện chức năng nâng cao (nếu có thời gian)
+	- 6/11/2023: 
+		- Sáng: 
+		- Chiều: báo cáo

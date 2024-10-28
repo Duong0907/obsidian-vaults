@@ -1,0 +1,13 @@
+- Bắt đầu làm từ chương 3
+- Yêu cầu: 
+	- Phải báo cáo tiến độ định kì
+	- Triển khai đề tài phân tích dữ liệu
+- Sản phẩm:
+	- Thuyết trình
+	- Báo cáo
+	- Source code
+- Các bước thực hiện:
+	- [ ] Tìm đề tài
+	- [ ] Lên kế hoạch, phân chia công việc và quản lý tiến độ
+	- [ ] ...
+	

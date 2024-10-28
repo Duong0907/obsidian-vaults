@@ -1,0 +1,16 @@
+- Giai cấp nông dân
+	- Chiến trên 90% dân số
+	- Chịu hai tầng áp bức bóc lột của ĐQ và PK
+- Giai cấp địa chủ
+	- Đại địa chủ
+	- Địa chủ vừa và nhỏ
+- Giai cấp tư sản
+	- Tư sản mại bản
+	- Tư sản dân tộc
+- Tầng lớp tiểu tư sản
+	- Tiểu thương, tiểu chủ
+	- Trí thức, HS SV
+- Giai cấp công nhân
+	- Đặc điểm chung: ý thức tổ chức và kỷ luật, tiếp thu CN mác lênin
+	- Đặc điểm riêng: ra đời ở thuộc địa, xuất thân từ nông dân
+=> Lãnh đạo cách mạng

@@ -1,0 +1,29 @@
+- Đặc tả yêu cầu phần mềm (System Requirement Specialization - SRS) là một tài liệu mô tả các yêu cầu đối với một hệ thống phần mềm. SRS được sử dụng để giao tiếp giữa khách hàng và nhà phát triển phần mềm, để đảm bảo rằng hệ thống phần mềm được xây dựng đáp ứng các nhu cầu của khách hàng.
+- Các thành phần:
+	- **Mục lục:** Cung cấp tổng quan về SRS.
+	- **Giới thiệu:** Mô tả mục đích của hệ thống và các người dùng của hệ thống.
+	- **Yêu cầu chức năng:** Mô tả các chức năng mà hệ thống phải cung cấp.
+	- **Yêu cầu phi chức năng:** Mô tả các yêu cầu về hiệu năng, bảo mật, và khả năng mở rộng của hệ thống.
+	- **Yêu cầu về giao diện:** Mô tả các yêu cầu về giao diện của trang web
+	- **Yêu cầu bổ sung:** Mô tả các yêu cầu bổ sung đối với hệ thống.
+- Ví dụ:
+	- **Tên hệ thống:** Hệ thống bán hàng
+	- **Mục đích:** Hệ thống này được thiết kế để quản lý các hoạt động bán hàng của một doanh nghiệp.
+	- **Người dùng:** Người dùng của hệ thống bao gồm nhân viên bán hàng, quản lý bán hàng, và khách hàng.
+	- **Yêu cầu chức năng:**
+		- Hệ thống phải cho phép người dùng thêm, sửa, xóa, và tìm kiếm sản phẩm.
+		- Hệ thống phải cho phép người dùng tạo, sửa, và xóa đơn hàng.
+		- Hệ thống phải cho phép người dùng theo dõi lịch sử bán hàng.
+		- Hệ thống phải cho phép người dùng tạo báo cáo bán hàng.
+	- **Yêu cầu phi chức năng:**
+		- Hệ thống phải có khả năng chịu tải cao.
+		- Hệ thống phải có khả năng bảo mật cao.
+		- Hệ thống phải đáp ứng các yêu cầu về hiệu năng.
+	- **Yêu cầu bổ sung:**
+		- Hệ thống phải được triển khai trên nền tảng đám mây.
+		- Hệ thống phải có giao diện người dùng thân thiện.
+
+
+- Tài liệu mẫu:
+	- [Đặc tả theo chuẩn IEEE](https://www.academia.edu/13467185/T%C3%A0i_li%E1%BB%87u_%C4%91%E1%BA%B7c_t%E1%BA%A3_y%C3%AAu_c%E1%BA%A7u_ph%E1%BA%A7n_m%E1%BB%81m_b%C3%A1n_h%C3%A0ng_theo_chu%E1%BA%A9n_IEEE)
+	- [Đặc tả trang bán sách](https://www.cse.msu.edu/~chengb/RE-491/Papers/SRS-BECS-2007.pdf)

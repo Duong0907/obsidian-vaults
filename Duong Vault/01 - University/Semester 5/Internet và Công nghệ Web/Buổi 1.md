@@ -1,0 +1,12 @@
+---
+
+---
+- Điểm: 
+	- Quá trình: 20%
+	- Thực hành: 30%
+	- Cuối kì: 50%
+- Công cụ quản lý dự án: Trello, Notion, Open Project, MS Project Management, Jira
+- Internet ra đời cho mục đích chiến tranh, tên ban đầu là Arpanet
+- Protocol dùng để giao tiếp trên Internet:
+	- Mô hình OSI 7 lớp không được sử dụng nhiều trong thực tế, thay vào đó là mô hình TCP/IP có 4 lớp
+	- HTTP, FPT, TELNET, SSH, ...

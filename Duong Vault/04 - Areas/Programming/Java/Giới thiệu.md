@@ -1,0 +1,12 @@
+## Các khái niệm cơ bản
+- Web container
+	- Là chương trình chạy liên tục trên máy chủ
+	- Chạy mã để xử lý các yêu cầu và tạo phản hồi
+	- Xử lý các chức năng quan trong khác:
+		- Theo dõi phiên
+		- Truy cập vào cơ sở dữ liệu
+		- Tạo email
+		- Bảo mật và mã hóa
+	- Ví dụ: Tomcat
+- Server Pages
+	- Là page được tạo ra từ server side rendering

@@ -1,0 +1,21 @@
+## Model develoment
+- Multiple linear regression:
+	- Đơn biến: 
+		- Training: `lm.fit()`
+	- Đa biến:
+		- Preprocessing: `pr = PolynomiaFeatures(degree, include_bias)`
+		- Normalizing: 
+			- `SCALE = StandardScaler()`
+			- `SCALE.fit()`
+			- `x_scale = SCALE.transform()`
+		- Training: `x_polly = pr.fit_transform(DataFrame)`
+- Pipeline:
+	- `Input = [('model_name', ModelContructor()), ...]`
+	- `pipe = Pipeline(Input)`
+	- `pipe.fit()`
+	- `pipe.predict()`
+- R<sup>2</sup>: `lm.score(X, Y)`
+- Polyomial Regression:
+	- Đơn biến:
+		- Dùng `f = numpy.polyfit(x, y, <degress>)` để để tạo hàm `f` là hàm hồi quy đá biến (bản chất `f` là một array các hệ số).
+		- Dùng `p = np.poly1D(f)` để hiện thị hàm `f`.

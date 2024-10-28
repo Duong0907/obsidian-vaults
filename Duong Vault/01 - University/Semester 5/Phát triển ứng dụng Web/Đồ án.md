@@ -1,0 +1,32 @@
+## Tiến độ tham khảo
+- Tuần 3-4: Hoàn thành trang chủ và xây dựng cơ sở dữ liệu.
+- Tuần 5-7: 
+	- Hoàn thành trang giới thiệu, liên hệ.
+	- Bổ sung và hoàn thành cơ cở dữ liệu.
+- Tuần 8-9: 
+	- CSDL: Migrate cơ sở dữ liệu và seed dữ liệu ảo
+	- End users: Triển khai dữ liệu động.
+	- Admin: Hoàn thành bảng điều khiển và hồ sơ admin.
+- Tuần 10:
+	- End users: Bổ sung trang mua vé.
+	- Admin: Hoàn thiện trang quản lý người dùng, quản lý nhà xe.
+- Tuần 11-12:
+	- End users: Thêm tính năng lọc cho trang mua vé
+	- Admin: Phân quyền đối tượng admin
+- Tuần 13:
+	- End users: Thêm trang thanh toán
+	- Admin: Hoàn thành trang quản lý xe, quản lý chuyến xe
+- Tuần 14-16:
+	- Hoàn thành báo cáo
+	- Hoàn thành sildes
+	- End users: Hoàn thiện chức năng mua vé và bình luận
+	- Admin: Bổ sung chức năng gửi email sau khi duyệt/hủy vé
+## Các phần trong trang giới thiệu (đồ án mẫu):
+- Giới thiệu đề tài
+- Giao diện người dùng, giao diện quản trị
+- Thành viên
+- Tiến độ dự án
+- Tổng kết: Ưu điểm, nhược điểm, hướng phát triển
+## Khác
+- Thiết kế giao diện
+- Có ghi lại biên bản sau mỗi cuộc họp

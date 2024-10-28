@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "fd2b9b46117e7f3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad5acecd928535b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f91cdc58d2949d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "286e5caf40d94252",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd5f589536f5bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abb5b7544f107b98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "99772eacb8ff1309",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "669b4c0df0ad20b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "d19792f1c9a5ec88",
+    "type": "split",
+    "children": [
+      {
+        "id": "99b43b84cfe7a28b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33852d28b719e523",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "89052234747e7bbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1455bced3fcaffc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "281b1ca9dc5eafed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "14d82b350dae8a64",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "11f91cdc58d2949d",
+  "lastOpenFiles": [
+    "04 - Areas/Programming/Others/Encoding, Encrypting and Hashing.md",
+    "Demo.md",
+    "02 - Work/OPSWSAT/Wiki.md",
+    "02 - Work/OPSWSAT/Nhật ký.md",
+    "02 - Work/OPSWSAT/Knowbe4.md",
+    "02 - Work/OPSWSAT/Add Feed Document.md",
+    "02 - Work/OPSWSAT/Wiki/How to/Get latest OESIS Tool 11bfbda41c7a80fd9a98f661f7978aeb.md",
+    "02 - Work/OPSWSAT/Wiki/How to/Download OESIS Dependencies for fv-win-vmod 11bfbda41c7a807c91ddd666a297d32e.md",
+    "02 - Work/OPSWSAT/Wiki/Fix error 119fbda41c7a80a985f0dcb56254ff86.md",
+    "02 - Work/OPSWSAT/Product Notes/Webex Meeting 486f18fc3eb54568a6cd6739ee51d63b.md",
+    "02 - Work/OPSWSAT/Product Notes/Webex ffffbda41c7a8054b0bad4a03c8f732e.md",
+    "02 - Work/OPSWSAT/Product Notes/Thunderbird f4916149b8cb41f5a43323b3bd915050.md",
+    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023 de65310d52a344c69744641253a4d42c.md",
+    "02 - Work/OPSWSAT/Product Notes/7-zip 48537e5cb6504c95b6bee2fe6c7ff9c9.md",
+    "02 - Work/OPSWSAT/Product Notes/Webex/image 1.png",
+    "02 - Work/OPSWSAT/Product Notes/Webex/image.png",
+    "02 - Work/OPSWSAT/Product Notes/Autodesk Design Review/image.png",
+    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/image 5.png",
+    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/image 3.png",
+    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/image 2.png",
+    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/image 1.png",
+    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/Feed 122fbda41c7a800094f8c83ddc52ae1b.md",
+    "02 - Work/OPSWSAT/Product Notes/AutoCAD 2023/Images/8E5F23B6-BB6F-446E-8ABE-8BF347CF4B7C.png",
+    "02 - Work/OPSWSAT/Diary/Ngày 3.md",
+    "02 - Work/OPSWSAT/Diary/Ngày 2.md",
+    "02 - Work/OPSWSAT/Diary/Ngày 1.md",
+    "04 - Areas/Programming/Others/AI.md",
+    "04 - Areas/Programming/NodeJS/Advanced Concepts.md",
+    "04 - Areas/Programming/Java/Variables.md",
+    "04 - Areas/Programming/Java/Java roadmap.md",
+    "04 - Areas/Programming/Java/Introduction.md",
+    "04 - Areas/Programming/Java/Giới thiệu.md",
+    "04 - Areas/Programming/Java/Cách tạo project servlet jsp trên intellij community.md",
+    "04 - Areas/Programming/Computer Network/VM Net (VMWare).md",
+    "Untitled.canvas",
+    "04 - Areas/Programming/Database",
+    "04 - Areas/Programming/Others",
+    "04 - Areas/Programming/NodeJS",
+    "99 - Meta",
+    "06 - Archives",
+    "04 - Areas/Programming/Computer Network/VM Net (VMWare)/image.png",
+    "04 - Areas/Programming/Computer Network/VM Net (VMWare)/image 2.png",
+    "04 - Areas/Programming/Computer Network/VM Net (VMWare)",
+    "04 - Areas/Programming/Computer Network",
+    "04 - Areas/Programming/New folder",
+    "04 - Areas/Programming/Docker/Docker (IUH sharing) 08feb1e0b20247cf984291a5b149b59b",
+    "02 - Work/OPSWSAT/Wiki/How to/Get latest Test Auto Patching Tool 11bfbda41c7a8069ad8dc41100a453df"
+  ]
+}

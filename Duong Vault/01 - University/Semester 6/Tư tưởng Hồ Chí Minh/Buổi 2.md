@@ -1,0 +1,5 @@
+1. Câu 1 Hãy trình bày hai khái niệm về TTHCM trong văn kiện Đại hội 9 ( 2001 ) và văn kiện Đại hội 11 ( 2011 ).
+	 - Đại hội 9:  Tư tưởng Hồ Chí Minh là một hệ thống quan điểm và tư tưởng của Hồ Chí Minh trong sự nghiệp cách mạng của Người được Đảng Cộng sản Việt Nam tổng kết, hệ thống hóa. Hệ thống tư tưởng này bao gồm những quan điểm về những vấn đề cơ bản của Cách mạng Việt Nam, từ cách mạng dân tộc dân chủ nhân dân đến cách mạng xã hội chủ nghĩa; vận dụng và phát triển Chủ nghĩa Mác-Leenin vào điều kiện cụ thể của Việt Nam.
+	 - Đại hội 11: Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam; kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta, kế thừa và phát triển các giá trị truyền thống tốt đẹp của dân tộc, tiếp thu tinh hoa văn hóa nhân loại; là tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta, mãi mãi soi đường cho sự nghiệp cách mạng của nhân dân ta giành thắng lợi.
+ 2. Hãy chỉ ra những nội dung cần làm rõ trong văn kiện Đại hội 11 (SGK trang 12).
+ 3. Học tập TTHCM có giá trị và ý nghĩa như thế nào?

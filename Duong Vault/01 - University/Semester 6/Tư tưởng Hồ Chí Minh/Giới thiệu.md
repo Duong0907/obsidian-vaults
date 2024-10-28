@@ -1,0 +1,21 @@
+
+- Giáo trình tư tưởng hcm bìa hồng
+- Điểm:
+	- Quá trình: 30%
+		- Trả lời câu hỏi: điểm cộng 0.25 cộng trực tiếp vào quá trình
+		- Có điểm danh, đi học đầy đủ, cộng 1 điểm quá trình
+		- Bài kiểm tra quá trình
+			- Điểm cao: thuyết trình, lấy 1/4 lớp
+			- Không quan trọng điểm: kiểm tra, tuần sau khi kiểm tra giữa kì, đề mở, tự luận
+	- Giữa kì: 
+		- 20%
+		- thi tập trung
+		- chương 1 - 4
+	- Cuối kì: 
+		- 50%
+		- thi tập trung, tự luận, 2 câu, 60 phút
+		- tất cả
+- Mail của cô: 
+	- Liên hệ lớp trưởng trước
+	- Gửi giờ hành chính
+	- truongmai87dhqg@gmail.com

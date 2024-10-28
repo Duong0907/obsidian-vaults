@@ -1,0 +1,22 @@
+Nội dung họp lần 1:
+- Lấy giao diện đồ án Internet và công nghệ web
+- Quyết định:
+	- Front-end: React
+	- Backend: Laravel
+	- Nền tảng quản lý dự án: Notion
+	- Trước mắt cho tới 22/11:
+		- Thiết kế giao diện (cần thiết kế 100% giao diện)
+		- Code 90% giao diện
+		- Thiết kế database (xong)
+		- Hoàn thành một số chức năng thêm, xóa, sửa cơ bản
+		- Làm trang giới thiệu (Khánh, Huy)
+- Biên bản họp:
+	- Bàn kế hoạch đồ án
+	- Quyết định công nghệ cho đồ án:
+		- Front-end: React
+		- Backend: Laravel
+		- Nền tảng quản lý dự án: Notion
+	- Phân chia công việc sắp tới:
+		- Khánh, Huy: Thiết kế và code trang giới thiệu (hạn 10/11/2023)
+		- Dương, Trung: Thiết kế giao diện các chức năng cơ bản cho đồ án (hạn 10/11/2023)
+		- Dương: Làm trang notion quản lý nhóm

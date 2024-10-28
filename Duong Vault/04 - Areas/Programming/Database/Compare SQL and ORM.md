@@ -1,0 +1,7 @@
+- Vn đề khi sử dụng raw sql:
+	- SQL Injection
+	- Dễ mắc lỗi cú pháp trong câu lệnh SQL
+	- Không có sự trợ giúp của editor: không highlight syntax trong câu lệnh SQL
+	- Dễ mắc lỗi sai tên bảng, cột
+	- Khó quản lý sự thay đổi
+	- Khó mở rộng câu truy vấn

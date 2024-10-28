@@ -1,0 +1,6 @@
+- Mỗi commit thực hiện một nhiệm vụ rõ ràng:
+	- Đừng trộn lẫn commit của business logic và refactor code
+	- Xóa bớt một thứ gì đó cũng nên tách ra
+	- ...
+- Làm cho commit message rõ ràng và dễ hiểu hơn
+- Skeleton đi trước implementation: Trước khi code các hàm chức năng hoàn chỉnh thì nên tạo ra cấu trúc của code trước khi đi vào chi tiết từng phần.

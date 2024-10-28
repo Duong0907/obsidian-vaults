@@ -1,0 +1,112 @@
+
+- **Golang Introduction**
+    - **Overview**
+        - Combines the simplicity of Python with the speed of C/C++
+        - Open-source programming language: mã nguồn được công khai trên github
+        - Compiled languague:  ![](https://johnthecomputerman.co.uk/storage/2021/05/1oUPhgu1G22fxhl8L6g3YCg.png)
+        - Key features:
+            - Simplicity
+            - Fast compilation times: 2 tính chất này như đã nói ở trên (sự kết hợp ...)
+            - Automatic memory management (Garbage collection) (Sẽ nói ở phần sau)
+            - Built-in support for concurrency (Sẽ nói ở phần sau)
+        - Popularity: bảng xếp hạng độ phổ biến của golang
+        - Adoption by companies: Đây là các công ty hiện đang sử dụng golang
+    - **Use Cases**
+        - Cloud and network services: ...
+        - Command-line interfaces: các ứng dụng với giao diện dòng lệnh (như terminal trên máy tính hoặc trong vscode)
+        - Backend web development
+    - **Key Concepts**
+        - Concurrency with Goroutines and Channels
+	        - Concurrency là giúp điều phối nhiều tác vụ cùng thực hiện trong 1 khoảng thời gian
+	        - Phân biệt concurrency và parallism
+	        - Sự nổi bật của concurrency trong golang với các ngôn ngữ khác:
+		        - **Simplicity and Readability:** vì code golang được thiết kế vì mục đích đơn giản và dễ đọc
+		        - **Efficient Performance:** vì goroutine trong go rất nhẹ và go được thực thi nhanh
+		        - **Scalability**: Vì tính đơn giản và hiệu suất cao nên chương trình golang rất dễ mở rộng với các tác vụ yêu cầu concurrency
+			- Goroutine
+				- Là cách xử lý nhiều tác vụ trong cùng một lúc trong golang
+				- Lightweight threads: Là một `luồng thực thi gọn nhẹ` trong golang
+				- Scheduled by the Go runtime: tức là goroutine sẽ được quản lý bởi go runtime chứ không phải hệ điều hành
+				- Lowcost: Kích thước của 1 goroutine rất nhỏ, tiết kiệm bộ nhớ hơn luồng thông thường
+				- Language Integration: được tích hợp sẵn vào trong ngôn ngữ Go, với từ khóa `go`
+			- Channels: channels are the pipes that connect concurrent goroutines, đây là đường giao tiếp của các goroutine với nhau, cho phép các goroutine có thể truyền nhận dữ liệu
+        - Garbage collection
+	        - Garbage collection in Go is the process by which the Go runtime system automatically frees memory that is no longer in use by the program
+        - Error handling: Go functions can return multiple values include erros
+	        - Không có try catch như java hay python và sẽ trả về nhiều giá trị trong đó có biến lỗi
+	        - Cách này có thể dẫn đến lặp code khá nhiều trong chương trình, nhưng giúp việc kiểm soát lỗi được tường mình hơn
+        - Backward compatibility: đảm bảo cho chương trình golang khi viết ở version cũ vẫn có thể chạy được trên các version mới hơn của Go
+    - **Development Environment**
+        - Go tools and commands
+			- go version: print go version
+			- go build: compile packages and dependencies
+			- go run: compile and run
+			- go env: print go environment information
+			- go doc: show documentation for package
+			- go mod: module maintence
+			- go get: install go dependencies
+        - Basic syntax and structure
+	        - Package 
+		        - Mọi chương trình go được tạo thành từ các package
+		        - Chương trình chạy từ package main
+	        - Import
+		        - Import package khác vào code hiện tại
+	        - Function
+				- Là một khối code có thể được thực thi nhiều lần trong chương trình
+		        - Cú pháp: định nghĩa, call
+	        - Variables
+		        - Kiểu dữ liệu:
+			        - bool: true/false
+			        - Numeric: int8, int16, int32/int, int64, float32, float64
+			        - string: "chuoi ki tu"
+		        - Khai báo biến và gán giá trị: trình bày 4 cách
+			- Constant:
+				- Giống như biến nhưng có thêm từ khóa const
+				- Cú pháp
+	        - Array
+		        - Cú pháp: khai báo
+		        - Kích thước cố định
+		        - Len
+	        - Slice
+		        - Slice dựa trên nền của 1 array
+		        - Không bị giới hạn kích thước như array
+		        - Cú pháp
+			        - Tạo slice có phần tử
+			        - Tạo slide rỗng
+			        - Truy xuất phần tử
+		        - Len, cap, Append
+	        - Map
+		        - Lưu dữ liệu theo dạng key:value
+		        - Mỗi phần tử gồm key và value tương ứng
+				- Cú pháp: 
+					- Tạo map có sẵn phần tử
+					- Tạo map rỗng
+					- Truy xuất phần tử
+			- If and switch
+				- If else: Cú pháp
+				- Switch:
+					- Dùng khi có tử 3 nhánh trong if
+					- Cú pháp
+	        - Loop
+		        - Chỉ có for loop
+		        - Cú pháp
+		        - Lăp qua slide
+		        - While loop (vẫn dùng for)
+			- Defer, Panic and Recover
+				- Defer:
+					- Cú pháp
+					- Defer làm cho một hàm được thực thi khi hàm gọi nó thực hiện xong
+				- Panic:
+					- Kết thúc chương trình và báo lỗi
+					- Có chức năng dừng chương hàm đang gọi nó và quăng exception, và gọi các hàm defer
+					- Bản thân hàm gọi panic cũng sẽ thành 1 panic
+				- Recover
+					- Lấy lại quyền kiểm soát khi bị panic
+	        - Pointer
+		        - Trỏ vào địa chỉ của biến trên bộ nhớ
+		        - Cú pháp: khai báo, gán, truy xuất giá trị
+		        - Không cần thu dọn con trỏ
+	        - Struct
+		        - Là kiểu dữ liệu tự định nghĩa
+		        - Cú pháp
+		        - Truy xuất

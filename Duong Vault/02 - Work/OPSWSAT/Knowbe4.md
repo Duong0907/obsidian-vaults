@@ -1,0 +1,51 @@
+# Knowbe4
+
+- Đặt mật khẩu đúng cách:
+    - Độ dài
+    - Độ phức tạp
+    - passphrase
+- Cyber security: Những nơi tiềm ẩn nguy hiểm
+    - Public wifi: sử dụng VPN
+    - Unpatch vulnibilities từ các thiết bị, phần mềm outdate: nâng cấp lên phiên bản mới
+    - Malicious app: kiểm tra nguồn gốc trước khi download
+    - Thiết bị sạc công cộng có thể tiềm ẩn malwares
+    - smishing: phish thông qua text message
+- Physical security
+    - Không cắm USB hoặc dây cáp tùy tiện
+    - Khóa máy khi không sử dụng
+    - Hủy tài liệu nhạy cảm
+    - Khóa cửa
+- Bảo mật khi Working from home
+    - Bảo vệ router bằng username password
+    - Bảo vệ wifi bằng mật khẩu mạnh
+    - Không sử dụng cùng mật khẩu
+    - Cẩn thiện bạn cùng phòng :)
+- Data privacy
+    - privacy ám chỉ việc chấp thuận để sử dụng data
+    - security là việc ngăn chặn các truy cập không hợp lệ đối vưới các thông tin nhạy cảm, dù cố ý hay vô ý
+    - Mật khẩu mạnh gồm các yếu tố: ít nhất 16 kí tự, dễ nhớ và khóa đoán, không dùng chung các tài khoản khác nhau
+- Insider Threats for End Users
+    - Ngoài trừ việc ngăn chặn các tấn công từ bên ngoài thì cũng cần ngăn chặn từ bên trong
+    - Gồm có:
+        - Malicious insider: những người muốn có ý định phá hủy, tấn công hệ thống của mình
+        - Negligent insider: những người không có ý muốn tấn công nhưng không tuân thủ các chính sách của tổ chức
+        - Accidental insider: những người vô tình tạo ra các lỗ hổng bảo mật
+    - Cần lưu ý:
+        - Luôn tuân thủ chính sách
+        - Học cách xác định các cuộc tấn công
+        - Sử dụng common sense
+        - Report các mối nguy hiểm ngay lập tức
+        - Hiểu được các rủi ro
+        - Đặc biệt quan tâm các quyền truy cập
+- Hậu quả tiềm tàng của việc mất dữ liệu:
+    - Mất các cơ hội trong công việc
+    - Sự sụp đổ của các hoạt động trên diện rộng
+    - Bị đánh cắp danh tính
+    - Sự sụp đổ của các dịch vụ tiện ích do các tổ chức này bị hack
+- Các con số
+    - $6 trillion annual global cost of cybercrime
+    - 95% of breaches can be prevented with simple steps everyone can take
+- Industrial control system:
+	+ Chỉ nên trao các quyền cần thiết cho các cá nhân, hạn chế quyền admin
+	+ Phân cách mạng ics và mạng tổ chức
+	+ Implement các kiến trúc và practice có tính bảo mật cao cho code
