@@ -1,5 +1,3 @@
-# Docker volume
-
 - Image gồm các tầng, khi tạo container thì sẽ add thêm một tầng nữa là container layer.
 - Image layers sẽ bao gồm các tầng trong Dockerfile bao gồm base image, sourcecode, entry point, ...
 - Khi muốn chỉnh sửa một file trong container (file đã có trong image), thì docker sẽ copy file thành một file mới và chỉnh sửa trên đó (Cơ chế Copy-on-write)

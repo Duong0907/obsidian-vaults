@@ -1,5 +1,3 @@
-# The remote device or resource won't accept the connection
-
 **Check the proxy settings:**
 
 1. Press "Windows + R", type "inetcpl.cpl", and click Ok.

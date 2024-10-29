@@ -1,4 +1,3 @@
-# Docker (IUH sharing)
 
 ---
 
@@ -48,12 +47,12 @@
         1. Là 1 template chứa hướng dẫn tạo ra container
         2. Nó là 1 file (read-only)
         
-        ![Untitled](Docker%20(IUH%20sharing)%2008feb1e0b20247cf984291a5b149b59b/Untitled.png)
+        ![Untitled](Untitled.png)
         
     3. Docker file (.yaml)
         1. Là file text để docker đọc và build thành image
             
-            ![Untitled](Docker%20(IUH%20sharing)%2008feb1e0b20247cf984291a5b149b59b/Untitled%201.png)
+            ![Untitled](Untitled%201.png)
             
     4. Docker compose 
         1. Để run tạo docker

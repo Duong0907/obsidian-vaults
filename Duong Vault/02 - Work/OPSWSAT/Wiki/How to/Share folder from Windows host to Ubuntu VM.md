@@ -1,5 +1,3 @@
-# Share folder from Windows host to Ubuntu VM
-
 1. Tải VMware Tools cho Ubuntu: 
 
 ```bash

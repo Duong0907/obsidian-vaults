@@ -1,5 +1,3 @@
-# Docker Networking
-
 - Bridge
     - Tương ứng với NAT  trong VMWare
     - Mạng bridge mặc định docker0 (192.17.0.1), các container trong mạng này sẽ có ip 172.17.x.x

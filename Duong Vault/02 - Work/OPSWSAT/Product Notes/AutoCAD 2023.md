@@ -2,7 +2,6 @@
 ---
 
 [Feed](Feed.md)
-
 [Patch](Patch.md)
 
 ## Note
@@ -12,9 +11,13 @@
 ![{8E5F23B6-BB6F-446E-8ABE-8BF347CF4B7C}.png](8E5F23B6-BB6F-446E-8ABE-8BF347CF4B7C.png)
 
 - I installed R24.2.53.0.0 (Japanese), The version in Control Panel is R24.2.53.0.0 (Japanese), OESIS detects R24.2.53.0.0 (English)
-- Can open multiple instances of autocad (different languages), but they use the same base
-
-![image 5.png](image%205.png)
+- Can open multiple instances of AutoCAD (different languages), but they use the same base
+- Now we will support fresh install with web installer, update with update patch. 
+	- Separate fresh install and update
+		- Avoid languages error and future similar error
+	- Only support one method of install
+		- Simple and reduce the effort for developing, reviewing and testing
+	- Users have to pass correct installer when they want to fresh install or update
 
 - https://forums.autodesk.com/t5/installation-licensing/multiple-languages-installed/td-p/9750291
 
@@ -27,102 +30,100 @@
 ## Pubkeys
 
 - Install
-    
-    ```json
-    "cert_paths": [
-        [
-          {
-            "subject": "Autodesk, Inc.",
-            "issuer": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
-            "thumbprint": "7AAD60DF8FB0973090E9CB14406A98576AF76B45"
-          },
-          {
-            "subject": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
-            "issuer": "DigiCert Trusted Root G4",
-            "thumbprint": "7B0F360B775F76C94A12CA48445AA2D2A875701C"
-          },
-          {
-            "subject": "DigiCert Trusted Root G4",
-            "issuer": "DigiCert Trusted Root G4",
-            "thumbprint": "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
-          }
-        ]
-      ]
-    ```
+```json
+"cert_paths": [
+	[
+	  {
+		"subject": "Autodesk, Inc.",
+		"issuer": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+		"thumbprint": "7AAD60DF8FB0973090E9CB14406A98576AF76B45"
+	  },
+	  {
+		"subject": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+		"issuer": "DigiCert Trusted Root G4",
+		"thumbprint": "7B0F360B775F76C94A12CA48445AA2D2A875701C"
+	  },
+	  {
+		"subject": "DigiCert Trusted Root G4",
+		"issuer": "DigiCert Trusted Root G4",
+		"thumbprint": "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
+	  }
+	]
+  ]
+```
     
 - Download
-    
     ```json
-    "cert_paths": [
-        [
-          {
-            "subject": "Autodesk, Inc.",
-            "issuer": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
-            "thumbprint": "07FDB209029F7464F1944FE92E63681A2659F583"
-          },
-          {
-            "subject": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
-            "issuer": "DigiCert Trusted Root G4",
-            "thumbprint": "7B0F360B775F76C94A12CA48445AA2D2A875701C"
-          },
-          {
-            "subject": "DigiCert Trusted Root G4",
-            "issuer": "DigiCert Trusted Root G4",
-            "thumbprint": "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
-          }
-        ]
-      ]
+"cert_paths": [
+	[
+	  {
+		"subject": "Autodesk, Inc.",
+		"issuer": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+		"thumbprint": "07FDB209029F7464F1944FE92E63681A2659F583"
+	  },
+	  {
+		"subject": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+		"issuer": "DigiCert Trusted Root G4",
+		"thumbprint": "7B0F360B775F76C94A12CA48445AA2D2A875701C"
+	  },
+	  {
+		"subject": "DigiCert Trusted Root G4",
+		"issuer": "DigiCert Trusted Root G4",
+		"thumbprint": "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
+	  }
+	]
+  ]
     ```
     
 - Direct download
     
-    ```json
-    // 2
-    "cert_paths": [
-        [
-          {
-            "subject": "Autodesk, Inc.",
-            "issuer": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
-            "thumbprint": "2AB30470546DF0C1C453BB8604602636DFBFC8A0"
-          },
-          {
-            "subject": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
-            "issuer": "DigiCert Trusted Root G4",
-            "thumbprint": "7B0F360B775F76C94A12CA48445AA2D2A875701C"
-          },
-          {
-            "subject": "DigiCert Trusted Root G4",
-            "issuer": "DigiCert Trusted Root G4",
-            "thumbprint": "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
-          }
-        ]
-      ]
-    ```
+```json
+// 2
+"cert_paths": [
+	[
+	  {
+		"subject": "Autodesk, Inc.",
+		"issuer": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+		"thumbprint": "2AB30470546DF0C1C453BB8604602636DFBFC8A0"
+	  },
+	  {
+		"subject": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+		"issuer": "DigiCert Trusted Root G4",
+		"thumbprint": "7B0F360B775F76C94A12CA48445AA2D2A875701C"
+	  },
+	  {
+		"subject": "DigiCert Trusted Root G4",
+		"issuer": "DigiCert Trusted Root G4",
+		"thumbprint": "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
+	  }
+	]
+  ]
+```
     
 - Custom install
 - Update
     
-    ```json
-    "cert_paths": [
-        [
-          {
-            "subject": "Autodesk, Inc.",
-            "issuer": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
-            "thumbprint": "3A67AD663C2A0CC8F4F29E9B576ADCCEF74F7C89"
-          },
-          {
-            "subject": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
-            "issuer": "DigiCert Trusted Root G4",
-            "thumbprint": "7B0F360B775F76C94A12CA48445AA2D2A875701C"
-          },
-          {
-            "subject": "DigiCert Trusted Root G4",
-            "issuer": "DigiCert Trusted Root G4",
-            "thumbprint": "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
-          }
-        ]
-      ]
-    ```
+```json
+"cert_paths": [
+	[
+	  {
+		"subject": "Autodesk, Inc.",
+		"issuer": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+		"thumbprint": "3A67AD663C2A0CC8F4F29E9B576ADCCEF74F7C89"
+	  },
+	  {
+		"subject": "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+		"issuer": "DigiCert Trusted Root G4",
+		"thumbprint": "7B0F360B775F76C94A12CA48445AA2D2A875701C"
+	  },
+	  {
+		"subject": "DigiCert Trusted Root G4",
+		"issuer": "DigiCert Trusted Root G4",
+		"thumbprint": "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
+	  }
+	]
+  ]
+```
     
 
 ## Next steps
